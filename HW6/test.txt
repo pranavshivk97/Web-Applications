@@ -1,0 +1,2 @@
+Hi, this is a test message
+Surprise! This is another new line!
